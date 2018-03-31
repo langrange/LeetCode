@@ -1,0 +1,2 @@
+1.用到了unordered_map 哈希表
+2.用到C++11中 for(auto c:s)即 for range循环
